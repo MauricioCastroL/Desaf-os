@@ -1,0 +1,3 @@
+Tienda1: 320
+Tienda2: 280
+Tienda3: 70

@@ -1,0 +1,18 @@
+la cantidad de palabras es de: 13
+la cantidad de frases es de: 0
+la frecuencia de la palabra buscada es de: 1
+las palabras unicas son: 
+-Hola
+-mundo
+-Este
+-es
+-un
+-archivo
+-de
+-ejemplo
+-Vamos
+-a
+-comparar
+-dos
+-archivos
+['Hola', 'mundo', 'Este', 'es', 'un', 'archivo', 'de', 'ejemplo', 'Vamos', 'a', 'comparar', 'dos', 'archivos']

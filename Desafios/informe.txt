@@ -1,0 +1,7 @@
+El número total de registros son: 5
+La edad promedio dentro de las profesiones es de: 31.6
+las profesiones son: Ingeniera
+las profesiones son: Doctor
+las profesiones son: Abogado
+las profesiones son: Enfermera
+las profesiones son: Arquitecta

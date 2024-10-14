@@ -1,0 +1,3 @@
+Hola universo
+Este es otro archivo de ejemplo
+Vamos a comparar dos textos

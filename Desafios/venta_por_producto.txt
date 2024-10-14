@@ -1,0 +1,3 @@
+ProductoA: 250
+ProductoB: 220
+ProductoC: 200

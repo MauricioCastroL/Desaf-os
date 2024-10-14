@@ -1,0 +1,7 @@
+tienda,producto,ventas
+Tienda1,ProductoA,120
+Tienda1,ProductoB,150
+Tienda2,ProductoA,80
+Tienda2,ProductoC,200
+Tienda1,ProductoA,50
+Tienda3,ProductoB,70

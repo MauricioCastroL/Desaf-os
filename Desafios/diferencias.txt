@@ -1,0 +1,8 @@
+linea en archivo1.txt, pero no en archivo2.txt 
+- mundo 
+- un 
+- archivos 
+linea en archivo2.txt, pero no en archivo1.txt 
+- universo 
+- otro 
+- textos 

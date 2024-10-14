@@ -1,0 +1,3 @@
+Hola mundo
+Este es un archivo de ejemplo
+Vamos a comparar dos archivos

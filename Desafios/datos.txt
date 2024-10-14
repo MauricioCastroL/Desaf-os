@@ -1,0 +1,6 @@
+Nombre,Edad,Profesión
+Alice,30,Ingeniera
+Bob,25,Doctor
+Carlos,35,Abogado
+Diana,28,Enfermera
+Eva,40,Arquitecta
